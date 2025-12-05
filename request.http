@@ -1,0 +1,23 @@
+GET http://localhost:3000/pilots HTTP/1.1
+
+###
+
+GET http://localhost:3000/pilots/2 HTTP/1.1
+
+###
+
+POST http://localhost:3000/pilots HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Manuelita perez",
+    "number": "666",
+    "pais":"San joaquin",
+    "champs":"0",
+    "team":"ponk24"
+}
+
+###
+
+DELETE http://localhost:3000/pilots/5 HTTP/1.1
+Content-Type: application/json

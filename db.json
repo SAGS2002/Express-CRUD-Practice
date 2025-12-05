@@ -1,0 +1,44 @@
+{
+    "pilots": [
+        {
+            "id": 1,
+            "name": "Max Verstappen",
+            "number": "1",
+            "pais": "Paises Bajos",
+            "champs": "4 World Championchips",
+            "team": "Red Bull"
+        },
+        {
+            "id": 2,
+            "name": "Lewis Hamilton",
+            "number": "44",
+            "pais": "Reino Unido",
+            "champs": "7 World Championchips",
+            "team": "Ferrari"
+        },
+        {
+            "id": 3,
+            "name": "Ayrton Senna",
+            "number": "12",
+            "pais": "Brasil",
+            "champs": "4 world championship",
+            "team": "McLaren"
+        },
+        {
+            "id": 4,
+            "name": "Lando Norris",
+            "number": "24",
+            "pais": "Reino unido",
+            "champs": "0 world championship",
+            "team": "McLaren"
+        },
+        {
+            "id": 5,
+            "name": "Manuelita perez",
+            "number": "666",
+            "pais": "San joaquin",
+            "champs": "0",
+            "team": "ponk24"
+        }
+    ]
+}
